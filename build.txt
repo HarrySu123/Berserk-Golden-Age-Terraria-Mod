@@ -1,0 +1,3 @@
+displayName = berserk golen age mod
+author = Cookedhappyman
+version = 0.1
