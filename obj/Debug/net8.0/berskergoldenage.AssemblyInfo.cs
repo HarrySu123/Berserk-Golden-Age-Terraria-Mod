@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("berskergoldenage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4afe6ddb77a47e5b23de4e9cb26a630c3890e97e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc5b88f2d8baad8715f3acecff37b69d91957546")]
 [assembly: System.Reflection.AssemblyProductAttribute("berskergoldenage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("berskergoldenage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
